@@ -1,6 +1,6 @@
-package io.github.lanicc.rafty.protocol;
+package io.github.lanicc.protocol;
 
-import io.github.lanicc.rafty.protocol.command.HelloResponse;
+import io.github.lanicc.protocol.command.HelloResponse;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 

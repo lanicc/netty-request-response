@@ -1,4 +1,6 @@
-package io.github.lanicc.rafty.protocol;
+package io.github.lanicc.protocol;
+
+import io.github.lanicc.protocol.Codec;
 
 /**
  * Created on 2022/6/28.

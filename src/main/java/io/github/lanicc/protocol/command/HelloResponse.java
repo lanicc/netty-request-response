@@ -1,6 +1,6 @@
-package io.github.lanicc.rafty.protocol.command;
+package io.github.lanicc.protocol.command;
 
-import io.github.lanicc.rafty.protocol.Protocol;
+import io.github.lanicc.protocol.Protocol;
 
 /**
  * Created on 2022/6/28.

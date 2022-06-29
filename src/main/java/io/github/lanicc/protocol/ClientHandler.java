@@ -1,4 +1,4 @@
-package io.github.lanicc.rafty.protocol;
+package io.github.lanicc.protocol;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;

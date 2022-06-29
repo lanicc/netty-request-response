@@ -1,7 +1,7 @@
-package io.github.lanicc.rafty.rpc;
+package io.github.lanicc.rpc;
 
-import io.github.lanicc.rafty.protocol.Codec;
-import io.github.lanicc.rafty.protocol.ServerHandler;
+import io.github.lanicc.protocol.Codec;
+import io.github.lanicc.protocol.ServerHandler;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;

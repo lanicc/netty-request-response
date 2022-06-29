@@ -1,4 +1,4 @@
-package io.github.lanicc.rafty.protocol;
+package io.github.lanicc.protocol;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;

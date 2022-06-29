@@ -1,4 +1,4 @@
-package io.github.lanicc.rafty.protocol;
+package io.github.lanicc.protocol;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.parser.Feature;
